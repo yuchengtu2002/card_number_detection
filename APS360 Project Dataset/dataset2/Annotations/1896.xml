@@ -1,0 +1,22 @@
+<annotation>
+            <folder>JPEGImages</folder>
+            <filename>1896.jpg</filename>
+            <size>
+                <width>1011</width>
+                <height>638</height>
+                <depth>3</depth>
+            </size>
+            <segmented>0</segmented>
+    <object>
+                <name>bank_card_number</name>
+                <pose>Unspecified</pose>
+                <truncated>0</truncated>
+                <difficult>0</difficult>
+                <bndbox>
+                    <xmin>81</xmin>
+                    <ymin>320</ymin>
+                    <xmax>915</xmax>
+                    <ymax>387</ymax>
+                </bndbox>
+            </object>
+</annotation>

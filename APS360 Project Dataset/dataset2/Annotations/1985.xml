@@ -1,0 +1,22 @@
+<annotation>
+            <folder>JPEGImages</folder>
+            <filename>1985.jpg</filename>
+            <size>
+                <width>170</width>
+                <height>106</height>
+                <depth>3</depth>
+            </size>
+            <segmented>0</segmented>
+    <object>
+                <name>bank_card_number</name>
+                <pose>Unspecified</pose>
+                <truncated>0</truncated>
+                <difficult>0</difficult>
+                <bndbox>
+                    <xmin>16</xmin>
+                    <ymin>58</ymin>
+                    <xmax>153</xmax>
+                    <ymax>69</ymax>
+                </bndbox>
+            </object>
+</annotation>

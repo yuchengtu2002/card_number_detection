@@ -1,0 +1,22 @@
+<annotation>
+            <folder>JPEGImages</folder>
+            <filename>2002.jpg</filename>
+            <size>
+                <width>720</width>
+                <height>456</height>
+                <depth>3</depth>
+            </size>
+            <segmented>0</segmented>
+    <object>
+                <name>bank_card_number</name>
+                <pose>Unspecified</pose>
+                <truncated>0</truncated>
+                <difficult>0</difficult>
+                <bndbox>
+                    <xmin>67</xmin>
+                    <ymin>248</ymin>
+                    <xmax>645</xmax>
+                    <ymax>298</ymax>
+                </bndbox>
+            </object>
+</annotation>

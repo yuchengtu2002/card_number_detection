@@ -1,0 +1,6 @@
+train: dataset2/images/train
+val: dataset2/images/val
+test: dataset2/images/test
+
+nc: 1
+names: ['card_number_region']

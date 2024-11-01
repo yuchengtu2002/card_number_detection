@@ -1,6 +1,6 @@
-train: dataset2/images/train
-val: dataset2/images/val
-test: dataset2/images/test
+train: ../APS360_Project_Dataset/dataset2/images/train
+val: ../APS360_Project_Dataset/dataset2/images/val
+test: ../APS360_Project_Dataset/dataset2/images/test
 
-nc: 1
-names: ['card_number_region']
+nc: 1  # number of classes (change if more classes)
+names: ['card_number_region']  # name of the class

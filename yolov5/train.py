@@ -161,6 +161,9 @@ def train(hyp, opt, device, callbacks):
     w = save_dir / "weights"  # weights dir
     (w.parent if evolve else w).mkdir(parents=True, exist_ok=True)  # make dir
     last, best = w / "last.pt", w / "best.pt"
+    print("saved weights")
+    print("saved weights")
+    print("saved weights")
 
     # Hyperparameters
     if isinstance(hyp, str):
